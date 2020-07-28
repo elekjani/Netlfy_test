@@ -1,2 +1,9 @@
 
 .index.html.swp
+
+# Local Netlify folder
+.netlify
+
+node_modules
+public/
+.cache/
